@@ -18,4 +18,8 @@ public class Test1 {
     public String sayHello3() {
         return "";
     }
+
+	public String sayHello5() {
+		return "";
+	}
 }
