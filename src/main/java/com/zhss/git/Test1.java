@@ -14,4 +14,8 @@ public class Test1 {
     public String sayHello2() {
         return "";
     }
+
+    public String sayHello3() {
+        return "";
+    }
 }
