@@ -1,0 +1,13 @@
+package com.zhss.git;
+
+/**
+ * @description:
+ * @author: lixiahan
+ * @create: 2019/09/15 14:59
+ */
+public class Test1 {
+
+    public String sayHello() {
+        return "";
+    }
+}
