@@ -25,7 +25,6 @@ public class Test1 {
 
 	public String sayHello5() {
         System.out.println("");
-        System.out.println("");
 		return "";
 	}
 }
