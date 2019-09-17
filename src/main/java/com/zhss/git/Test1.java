@@ -23,7 +23,4 @@ public class Test1 {
 		return "";
 	}
 	
-	public String sayHello() {
-		return "";
-	}
 }
