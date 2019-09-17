@@ -6,8 +6,4 @@ package com.zhss.git;
  * @create: 2019/09/15 18:48
  */
 public class Test3 {
-
-    public String say() {
-        return "";
-    }
 }
