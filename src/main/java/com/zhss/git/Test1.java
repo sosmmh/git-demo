@@ -14,6 +14,8 @@ public class Test1 {
     }
 
     public String sayHello2() {
+        System.out.println("完成了部分功能");
+        System.out.println("完成了全部功能");
         return "";
     }
 
