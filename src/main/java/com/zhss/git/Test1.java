@@ -8,6 +8,8 @@ package com.zhss.git;
 public class Test1 {
 
     public String sayHello() {
+        System.out.println("part feature 001");
+        System.out.println("finish");
         return "";
     }
 
@@ -22,5 +24,4 @@ public class Test1 {
 	public String sayHello5() {
 		return "";
 	}
-	
 }
